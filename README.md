@@ -27,13 +27,13 @@ conda activate stats-env
 ```
 
 ### Packages included
-Python 3
-Scipy
-Pandas
-Numpy
-OS
-Seaborn
-MatPlotLib
+- Python 3
+- Scipy
+- Pandas
+- Numpy
+- OS
+- Seaborn
+- MatPlotLib
 
 ## Calculations performed
 Performed basic statistical analysis including group means, standard deviations, and cross-tabulations. Applied hypothesis testing (t-tests, Mann-Whitney U, Wilcoxon, chi-squared tests), computed correlations, and built linear regression models using statsmodels to explore relationships while adjusting for covariates.
